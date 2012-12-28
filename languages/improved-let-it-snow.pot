@@ -1,0 +1,187 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/improved-let-it-snow\n"
+"POT-Creation-Date: 2012-12-28 07:21:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: snow.php:12
+msgid "Improved Let It Snow! Settings"
+msgstr ""
+
+#: snow.php:12
+msgid "Improved Let It Snow!"
+msgstr ""
+
+#: snow.php:19 snow.php:167
+msgid ""
+"Like Improved Let It Snow?, you should follow us on Twitter <a href=\"%s"
+"\"><em>here</em></a>"
+msgstr ""
+
+#: snow.php:38
+msgid "Animation rate"
+msgstr ""
+
+#: snow.php:41
+msgid ""
+"Lesser (e.g. 20) = fast + smooth, but high CPU use. More (e.g. 50) = more "
+"conservative, but slower. Default is 33."
+msgstr ""
+
+#: snow.php:45
+msgid "Limit flakes at the bottom"
+msgstr ""
+
+#: snow.php:48
+msgid ""
+"Limits the \"floor\" (pixels) of the snow. If unspecified, snow will \"stick"
+"\" to the bottom of the browser window and persists through browser resize/"
+"scrolling."
+msgstr ""
+
+#: snow.php:52
+msgid "Maximum number of flakes"
+msgstr ""
+
+#: snow.php:55
+msgid ""
+"Sets the maximum number of snowflakes that can exist on the screen at any "
+"given time."
+msgstr ""
+
+#: snow.php:59
+msgid "Maximum number of active flakes"
+msgstr ""
+
+#: snow.php:62
+msgid ""
+"Sets the limit of \"falling\" snowflakes (ie. moving on the screen, thus "
+"considered to be active.)"
+msgstr ""
+
+#: snow.php:66
+msgid "Follow mouse?"
+msgstr ""
+
+#: snow.php:69 snow.php:79 snow.php:103 snow.php:120 snow.php:130 snow.php:140
+msgid "Yes"
+msgstr ""
+
+#: snow.php:70 snow.php:80 snow.php:104 snow.php:121 snow.php:131 snow.php:141
+msgid "No"
+msgstr ""
+
+#: snow.php:72
+msgid ""
+"Allows snow to move dynamically with the \"wind\", relative to the mouse's X "
+"(left/right) coordinates."
+msgstr ""
+
+#: snow.php:76
+msgid "Freeze on blur?"
+msgstr ""
+
+#: snow.php:82
+msgid ""
+"Stops the snow effect when the browser window goes out of focus, eg., user "
+"is in another tab. Saves CPU, nicer to user."
+msgstr ""
+
+#: snow.php:86
+msgid "Snow color"
+msgstr ""
+
+#: snow.php:89
+msgid "Don't eat (or use?) yellow snow."
+msgstr ""
+
+#: snow.php:93
+msgid "Snow character"
+msgstr ""
+
+#: snow.php:96
+msgid ""
+"&amp;bull; (&bull;) = bullet. &amp;middot; entity (&middot;) is not used as "
+"it's square on some systems etc. Changing this may result in cropping of the "
+"character and may require flakeWidth/flakeHeight changes, so be careful."
+msgstr ""
+
+#: snow.php:100
+msgid "Sticky snow?"
+msgstr ""
+
+#: snow.php:106
+msgid ""
+"Allows the snow to \"stick\" to the bottom of the window. When off, snow "
+"will never sit at the bottom."
+msgstr ""
+
+#: snow.php:110
+msgid "Target element"
+msgstr ""
+
+#: snow.php:113
+msgid ""
+"Element which snow will be appended to (default: document body) - can be an "
+"element ID string eg. 'myDiv', or a DOM node reference."
+msgstr ""
+
+#: snow.php:117
+msgid "Use melt effect?"
+msgstr ""
+
+#: snow.php:123
+msgid ""
+"When recycling fallen snow (or rarely, when falling), have it \"melt\" and "
+"fade out if browser supports it."
+msgstr ""
+
+#: snow.php:127
+msgid "Use twinkle effect?"
+msgstr ""
+
+#: snow.php:133
+msgid "Allow snow to randomly \"flicker\" in and out of view while falling."
+msgstr ""
+
+#: snow.php:137
+msgid "Use fixed position?"
+msgstr ""
+
+#: snow.php:143
+msgid ""
+"Yes = snow not affected by window scroll. may increase CPU load, disabled by "
+"default - if enabled, used only where supported."
+msgstr ""
+
+#: snow.php:147
+msgid "Snowfall maximum speed (horizontal)"
+msgstr ""
+
+#: snow.php:150
+msgid ""
+"Defines maximum X velocity for the storm; a random value in this range is "
+"selected for each snowflake."
+msgstr ""
+
+#: snow.php:154
+msgid "Snowfall maximum speed (vertical)"
+msgstr ""
+
+#: snow.php:157
+msgid ""
+"Defines maximum Y velocity for the storm; a random value in this range is "
+"selected for each snowflake."
+msgstr ""
+
+#: snow.php:162
+msgid "Save Changes"
+msgstr ""
