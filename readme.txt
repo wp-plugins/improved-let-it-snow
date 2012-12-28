@@ -54,6 +54,10 @@ This plugin is originally written by [Aen Tan](http://aentan.com/) and later imp
 
 You should follow us on Twitter *[here](http://twitter.com/codemasteroy)*.
 
+== Screenshots ==
+
+1. Improved Let It Snow! Settings
+
 == Changelog ==
 
 = 3.5 =
@@ -76,3 +80,8 @@ Added additional style declarations for themes that style the img tag.
 
 = 1.0 =
 First version
+
+== Upgrade Notice ==
+
+= 3.5 =
+You just installed, why are you trying to update?
