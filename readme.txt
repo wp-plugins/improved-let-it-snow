@@ -1,5 +1,5 @@
 === Improved Let It Snow! ===
-Contributors: codix, mohanjith
+Contributors: codix, mohanjith, WPMUDEV
 Donate link: http://twitter.com/codemasteroy
 Tags: snow, christmas, xmas, flakes, aen
 Requires at least: 1.5
@@ -28,7 +28,7 @@ In 2007, WordPress.com introduced a [falling snow options](http://wordpress.com/
 
 == Installation ==
 
-1. upload the folder `improved-let-it-snow` with its contents to `/wp-content/plugins/` directory
+1. Upload the folder `improved-let-it-snow` with its contents to `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress Admin Panel
 1. Configure snowfall if you like, in the 'Settings' -> 'Improved Let It Snow!' page. That's it!
 
